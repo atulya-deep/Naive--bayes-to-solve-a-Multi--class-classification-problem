@@ -10,6 +10,6 @@ from sklearn.naive_bayes import MultinomialNB
 ```
 #Loading Dataset
 ```python
-data = pd.read_csv("https://raw.githubusercontent.com/amankharwal/Website-data/master/bbc-news-data.csv", sep='\t')
+data = pd.read_csv("bbc-news-data.csv", sep='\t')
 print(data.head())
 ```
