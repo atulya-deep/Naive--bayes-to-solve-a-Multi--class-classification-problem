@@ -1,5 +1,5 @@
-# FNN-Network-to-solve-a-Multi--class-classification-problem
-Build a FFN Network to solve a Multi- class classification problem
+# Naive-Bayes-classifier-to-solve-a-Multi--class-classification-problem
+Build a Naive Bayes Classifier to solve a Multi- class classification problem
 # Importing Libraries
 ```python
 import pandas as pd
